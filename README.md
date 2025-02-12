@@ -1,2 +1,2 @@
 # words
-firefox extension for something (stupid) - see demo video
+firefox extension for something (stupid)
